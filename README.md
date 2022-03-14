@@ -14,14 +14,13 @@
 
 <br/>
 
-I'm Calebe Tadeu, Web FrontEnd developer jr, passionate about game, I like challenges, I'm always looking to learn new things.
+I'm Calebe Tadeu, Android Developer Kotlin, passionate about game, I like challenges, I'm always looking to learn new things.
 <br/>
 
 
-- :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I am currently learning and improving React, Typescript, Next JS, Styled Componets!
+- I currently work at the e-frete company as Android Developer https://www.efrete.com.br/
+- 🔭 I am currently learning and improving Android, Kotlin,Jetpack Compose 
 - 🤔 I'm looking for helping with solving coding issues!
-- 💬 I am available for work in the home office mode!
 - 📫 How to reach me: calebetadeu@gmail.com
 - 📝 See my resume by <a  target="blank" href="https://www.canva.com/design/DAEuQtvrnqI/oxPc3VR6EmJagqvxzchmwA/view?utm_content=DAEuQtvrnqI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
 
